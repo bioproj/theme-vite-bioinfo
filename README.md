@@ -2,8 +2,7 @@
 
 一个集成了 Vite 的主题快速开始模板。
 
-主题开发文档可查阅：<https://docs.halo.run/2.0.0-SNAPSHOT/developer-guide/theme/prepare>
-
+用于生信小木屋模板开发
 ## 开发
 
 ```bash
