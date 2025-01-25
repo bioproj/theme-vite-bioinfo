@@ -1,10 +1,10 @@
-import "./styles/tailwind.css";
-import "./styles/main.css";
-import Alpine from "alpinejs";
+// import "./styles/tailwind.css";
+import "./styles/main.scss";
+// import Alpine from "alpinejs";
 
-window.Alpine = Alpine;
+// window.Alpine = Alpine;
 
-Alpine.start();
+// Alpine.start();
 
 export function count(x: number, y: number) {
   return x + y;
